@@ -1,4 +1,4 @@
-###3D printed parts notes###
+### 3D printed parts notes ###
 
 BatteryHolder: appearance does not matter, as long as battery fits with a little room.
 
