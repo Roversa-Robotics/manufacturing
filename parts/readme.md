@@ -9,5 +9,5 @@ The robot has 7 buttons: 2x straight arrows (purple, yellow), 2x turn arrows (1 
 
 SnapWheel: adaptive layer height (not sure this matters), first layer at octogram spiral since this will be seen, no supports needed
 
-ChargerMountingStand: 25% infill or greater for charger needs to be sturdier-  .2mm layer height
+ChargerMount: 25% infill or greater for charger needs to be sturdier-  .2mm layer height
 
