@@ -8,3 +8,7 @@ Parts files for Roversa.
 
 ### 3D-Printed Files
 - .3mf files for robot and charger
+
+
+### License: 
+Attribution-NonCommercial-ShareAlike 4.0 International
