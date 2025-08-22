@@ -2,9 +2,7 @@
 Parts files for Roversa.
 
 ### Lasercut Files
-- DXFs exported from OnShape
-- DXFs converted to .01pt lineweight
-- PDFs converted to .01pt lineweight
+- Latest DXFs are exports from OnShape and may need adjusted lineweights based on your application
 
 ### 3D-Printed Files
 - .3mf files for robot and charger
